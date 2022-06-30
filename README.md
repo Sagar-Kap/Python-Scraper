@@ -1,4 +1,4 @@
-# 🐍 Scraper to compare prices for Remington products
+# 🐍 Scraper to compare prices for hair care products
 
 ## 📄 Sites scraped:
 
